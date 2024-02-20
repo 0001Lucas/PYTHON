@@ -1,2 +1,2 @@
-# PYTHON
-Meus estudos e projetos em Python.
+# Sistema-bancario
+Desenvolvimento de sistema bancario com Python.
